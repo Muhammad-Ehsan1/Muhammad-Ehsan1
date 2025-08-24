@@ -114,45 +114,6 @@
 
 </div>
 
-## 📈 Data Science Focus Areas
-
-<div align="center">
-
-### 🔍 *Data Processing Excellence*
-
-> *Transforming Raw Data into Insights*
-> 
-> 🐼 Expert in Pandas, NumPy for Python data manipulation  
-> 📊 Proficient in R’s dplyr, tidyr, tidyverse ecosystem  
-> 📋 Advanced Excel techniques for business analytics
-
-### 📊 *Visualization Mastery*
-
-> *Making Data Tell Stories*
-> 
-> 🎨 Interactive dashboards with PowerBI & Tableau  
-> 🐍 Python visualization with Matplotlib, Seaborn, Plotly  
-> 📱 Web apps with Streamlit for data presentation  
-> 🎯 R visualization with ggplot2, patchwork, flexdashboard
-
-### 🤖 *Machine Learning Journey*
-
-> *Building Predictive Models*
-> 
-> 🔬 Scikit-Learn for comprehensive ML workflows  
-> 📚 Continuous learning in advanced ML techniques  
-> 🧠 Strong mathematical foundation supporting ML concepts
-
-### 🧮 *Mathematical Foundation*
-
-> *The Science Behind Data Science*
-> 
-> ∫ Calculus & Multi-Variable Calculus for optimization  
-> 🔢 Linear Algebra for dimensionality and transformations  
-> 📊 Probability & Statistics for inference and modeling
-
-</div>
-
 ## 🎯 Current Learning Goals
 
 <div align="center">
