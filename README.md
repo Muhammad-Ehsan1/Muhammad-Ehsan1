@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey, I’m Muhammad Ehsan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%A4%96;Analytics+%E2%86%92+Insights+%E2%86%92+Solutions+%F0%9F%94%8D;Turning+Data+into+Decisions+%F0%9F%92%A1;Learning+%26+Growing+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%A4%96;Business+Analyst+%F0%9F%A4%96;Analytics+%E2%86%92+Insights+%E2%86%92+Solutions+%F0%9F%94%8D;Turning+Data+into+Decisions+%F0%9F%92%A1;Learning+%26+Growing+Every+Day+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Ehsan1&style=for-the-badge&color=00d9ff" alt="Profile Views"/>
 
