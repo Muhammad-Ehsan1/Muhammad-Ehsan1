@@ -88,23 +88,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ehsan1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ehsan1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ehsan1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Ehsan1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ehsan1&layout=compact&langs_count=8&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=00D9FF" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ehsan1&theme=radical" width="100%" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ehsan1&theme=radical&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 </div>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Ehsan1&theme=radical" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
 
 ## 🏆 Certifications & Learning Path
 
