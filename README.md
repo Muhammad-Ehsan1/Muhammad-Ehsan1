@@ -111,9 +111,13 @@
 
 <div align="center">
 
-![NetAcad Data Analytics](https://img.shields.io/badge/NetAcad_Data_Analytics_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Python Certified](https://img.shields.io/badge/Python_Certified_NetAcad-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML Python Simplilearn](https://img.shields.io/badge/ML_in_Python_Simplilearn-FF6B35?style=for-the-badge&logo=simplilearn&logoColor=white)
+![Google Advance Data Analyst](https://img.shields.io/badge/Google_Advance_Data_Analyst-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Business Intelligence](https://img.shields.io/badge/Google_Business_Intelligence_Professional-Coursera-34A853?style=for-the-badge&logo=google&logoColor=white)
+![AI and Data Science](https://img.shields.io/badge/AI_and_Data_Science-SMIT-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Data Science Essentials](https://img.shields.io/badge/Data_Science_Essentials_with_Python-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Python Certified](https://img.shields.io/badge/Python_Certified-Cisco-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 </div>
 
