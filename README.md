@@ -58,6 +58,14 @@
 ![Python](https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-4CAF50?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-009688?style=for-the-badge)
+![ANN](https://img.shields.io/badge/ANN-673AB7?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-3F51B5?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-2196F3?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-00BCD4?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-FF5722?style=for-the-badge)
+
 
 
 ### *🧮 Mathematics & Statistics*
