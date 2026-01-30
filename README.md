@@ -16,7 +16,7 @@
 
 <div align="center">
 
-|📊 *Data Processing|📈 **Analytics|📉 **Visualization|🤖 **ML/DL|🧮 **Mathematics*       |
+|📊 *Data Processing|📈 **Analytics|📉 **Visualization|🤖 **ML / DL |🧮 **Mathematics*       |
 |:-------------------:|:-------------:|:-----------------:|:--------------------:|:----------------------:|
 |Foundation         |↗ Analysis   |↗ Insights       |↗ Predictions       |↗ Core Knowledge      |
 |Clean Data         |Find Patterns|Tell Stories     |Build Models        |Statistical Foundation|
