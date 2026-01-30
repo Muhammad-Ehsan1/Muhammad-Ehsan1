@@ -52,10 +52,13 @@
 ![patchwork](https://img.shields.io/badge/patchwork-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![flexdashboard](https://img.shields.io/badge/flexdashboard-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### *🤖 Machine Learning*
+### *🤖 Machine Learning / Deep Learning*
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_ML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TorchVision](https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 ### *🧮 Mathematics & Statistics*
 
